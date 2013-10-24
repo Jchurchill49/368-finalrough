@@ -1,3 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+img{
+	width:100%;
+}
+
+#top {
+	float:right;
+}
+
