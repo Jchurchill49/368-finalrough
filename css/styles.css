@@ -2,10 +2,16 @@
 /* CSS Document */
 
 img{
-	width:100%;
+	width:50%;
 }
 
 #top {
-	float:right;
+	float:left;
+}
+
+
+nav {
+float:right;
+
 }
 
