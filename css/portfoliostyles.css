@@ -1,7 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-
-
 /*Colour pallette
 fear of rejection
 341139
@@ -33,22 +31,14 @@ HEX
 RGB
 
 inside this moment found on colourlovers.com*/
-
 body {
-	background-color: url() ;
-}
-
-img{
-	width:50%;
-}
-
-#top {
-	float:;
+	background:url("../img/notebook.png");
 }
 
 
-
-
+img {
+	width:25%;
+}
 
 li {
   background: ;
@@ -56,10 +46,10 @@ li {
   height: 50px;
   line-height: 50px;
   list-style: none;
-	margin: 0 20px 0 10px;
-  padding: 0 10px 0 0;
-  text-align: right;
-  width: 150px;
+	margin: 0 10px 0 10px;
+  padding: 0 0px 0 0px;
+  text-align: center;
+  width: 200px;
 }
 
 a {
@@ -74,6 +64,6 @@ a:hover {
   background: blue;
 }
 
-blockquote {
-	float:left;
+#arrow {
+	width: 75%;
 }
