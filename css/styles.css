@@ -94,6 +94,7 @@ a:hover {
 
 blockquote {
 	float:left;
+	font-style:italic;
 }
 
 body{
